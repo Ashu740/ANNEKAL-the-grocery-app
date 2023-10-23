@@ -1,0 +1,92 @@
+{
+    "productss":[{
+        "id":1,
+        "name":"Aashirwad aata",
+        "desc":"5kg",
+        "price": 300,
+        "quantity":0,
+        "image":"https://5.imimg.com/data5/DS/WE/GLADMIN-17396827/aashirvaad-atta-5-kg.png"
+    },
+    {
+        "id":2,
+        "name":"India gate rice",
+        "desc":"5kg",
+        "price": 200,
+        "quantity":0,
+        "image":"https://gargdastak.com/wp-content/uploads/2022/02/DSTK7188210720220-768x768.webp"
+    },
+    {
+        "id":3,
+        "name":"Paneer",
+        "desc":"1kg",
+        "price": 170,
+        "quantity":0,
+        "image":"https://spicecravings.com/wp-content/uploads/2022/07/How-to-Soften-Paneer-3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Sugar",
+        "desc":"1kg",
+        "price": 40,
+        "quantity":0,
+        "image":"https://cdn.britannica.com/73/239573-050-E9A4DB36/sugar-cubes.jpg?w=600&q=60"
+    },
+    {
+        "id":5,
+        "name":"Tea",
+        "desc":"1kg",
+        "price": 30,
+        "quantity":0,
+        "image":"https://www.teaforturmeric.com/wp-content/uploads/2021/11/Masala-Chai-Tea-Recipe-Card.jpg"
+    },
+    {
+        "id":6,
+        "name":"Dal",
+        "desc":"1kg",
+        "price": 100,
+        "quantity":0,
+        "image":"https://www.whiskaffair.com/wp-content/uploads/2020/04/North-Indian-Homestyle-Toor-Dal-2-3.jpg"
+    },
+    {
+        "id":7,
+        "name":"Vegetables",
+        "desc":"1kg",
+        "price": 200,
+        "quantity":0,
+        "image":"https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg"
+    },
+    {
+        "id":8,
+        "name":"Milk",
+        "desc":"1L",
+        "price": 60,
+        "quantity":0,
+        "image":"https://m.media-amazon.com/images/I/71VgwzQ0SXL.jpg"
+    },
+    {
+        "id":9,
+        "name":"Tomato",
+        "desc":"1kg",
+        "price": 200,
+        "quantity":0,
+        "image":"https://borates.today/wp-content/uploads/2022/07/Tomato-plants.jpg"
+    },
+    {
+        "id":10,
+        "name":"Kechup",
+        "desc":"1kg",
+        "price": 150,
+        "quantity":0,
+        "image":"https://images-cdn.ubuy.co.in/64c464d6c6455a75bc4d1bc8-heinz-tomato-ketchup-value-size-64-oz.jpg"
+    },
+    {
+        "id":11,
+        "name":"Ghee",
+        "desc":"1kg",
+        "price": 300,
+        "quantity":0,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Home_made_Ghee.jpg"
+    }
+
+]
+}

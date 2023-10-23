@@ -1,0 +1,226 @@
+{
+    "allsellingproducts":[{
+            
+        "id":1,
+        "sellername":" Ram grocery Shop",
+        "name":"Aashirwad aata",
+        "desc":"5kg",
+        "price": 300,
+        "itemquantity":30,
+        "quantity":0,
+        "image":"https://5.imimg.com/data5/DS/WE/GLADMIN-17396827/aashirvaad-atta-5-kg.png"
+        },
+        {
+        "id":2,
+        "sellername":" Ram grocery Shop",
+        "name":"India gate rice",
+        "desc":"5kg",
+        "price": 200,
+        "itemquantity":39,
+        "quantity":0,
+        "image":"https://gargdastak.com/wp-content/uploads/2022/02/DSTK7188210720220-768x768.webp"
+        },
+        {
+        "id":3,
+        "sellername":" Ram grocery Shop",
+        "name":"Paneer",
+        "desc":"1kg",
+        "price": 170,
+        "itemquantity":40,
+        "quantity":0,
+        "image":"https://spicecravings.com/wp-content/uploads/2022/07/How-to-Soften-Paneer-3.jpg"
+        },
+        {
+        "id":4,
+        "sellername":" Ram grocery Shop",
+        "name":"Sugar",
+        "desc":"1kg",
+        "price": 40,
+        "itemquantity":30,
+        "quantity":0,
+        "image":"https://cdn.britannica.com/73/239573-050-E9A4DB36/sugar-cubes.jpg?w=600&q=60"
+        },
+        {
+        "id":5,
+        "sellername":" Ram grocery Shop",
+        "name":"Tea",
+        "desc":"1kg",
+        "price": 30,
+        "itemquantity":80,
+        "quantity":0,
+        "image":"https://www.teaforturmeric.com/wp-content/uploads/2021/11/Masala-Chai-Tea-Recipe-Card.jpg"
+        },
+        {
+       "id":6,
+        "sellername":" Ram grocery Shop",
+        "name":"Dal",
+        "desc":"1kg",
+        "price": 100,
+        "itemquantity":50,
+        "quantity":0,
+        "image":"https://www.whiskaffair.com/wp-content/uploads/2020/04/North-Indian-Homestyle-Toor-Dal-2-3.jpg"
+        },
+        {
+        "id":7,
+        "sellername":" Ram grocery Shop",
+        "name":"Vegetables",
+        "desc":"1kg",
+        "price": 200,
+        "itemquantity":70,
+        "quantity":0,
+        "image":"https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg"
+        },
+        {
+        "id":8,
+        "sellername":" Ram grocery Shop",
+        "name":"Milk",
+        "desc":"1L",
+        "price": 60,
+        "itemquantity":40,
+        "quantity":0,
+        "image":"https://m.media-amazon.com/images/I/71VgwzQ0SXL.jpg"
+        },
+        {
+        "id":9,
+        "sellername":" Ram grocery Shop",
+        "name":"Tomato",
+        "desc":"1kg",
+        "price": 200,
+        "itemquantity":80,
+        "quantity":0,
+        "image":"https://borates.today/wp-content/uploads/2022/07/Tomato-plants.jpg"
+        },
+        {
+        "id":10,
+        "sellername":" Ram grocery Shop",
+        "name":"Kechup",
+        "desc":"1kg",
+        "price": 150,
+        "itemquantity":20,
+        "quantity":0,
+        "image":"https://images-cdn.ubuy.co.in/64c464d6c6455a75bc4d1bc8-heinz-tomato-ketchup-value-size-64-oz.jpg"
+        },
+        {
+        "id":11,
+        "sellername":" Ram grocery Shop",
+        "name":"Ghee",
+        "desc":"1kg",
+        "price": 300,
+        "itemquantity":10,
+        "quantity":0,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Home_made_Ghee.jpg"
+        },
+        {
+        "id":1,
+        "sellername":" Shyam grocery Shop",
+        "name":"Aashirwad aata",
+        "desc":"5kg",
+        "price": 320,
+        "itemquantity":20,
+        "quantity":0,
+        "image":"https://5.imimg.com/data5/DS/WE/GLADMIN-17396827/aashirvaad-atta-5-kg.png"
+        },
+        {
+        "id":2,
+        "sellername":" Shyam grocery Shop",
+        "name":"India gate rice",
+        "desc":"5kg",
+        "price": 200,
+        "itemquantity":35,
+        "quantity":0,
+        "image":"https://gargdastak.com/wp-content/uploads/2022/02/DSTK7188210720220-768x768.webp"
+        },
+        {
+        "id":3,
+        "sellername":" Shyam grocery Shop",
+        "name":"Paneer",
+        "desc":"1kg",
+        "price": 170,
+        "itemquantity":60,
+        "quantity":0,
+        "image":"https://spicecravings.com/wp-content/uploads/2022/07/How-to-Soften-Paneer-3.jpg"
+        },
+        {
+        "id":4,
+        "sellername":" Shyam grocery Shop",
+        "name":"Sugar",
+        "desc":"1kg",
+        "price": 40,
+        "itemquantity":69,
+        "quantity":0,
+        "image":"https://cdn.britannica.com/73/239573-050-E9A4DB36/sugar-cubes.jpg?w=600&q=60"
+        },
+        {
+        "id":5,
+        "sellername":" Shyam grocery Shop",
+        "name":"Tea",
+        "desc":"1kg",
+        "price": 30,
+        "itemquantity":70,
+        "quantity":0,
+        "image":"https://www.teaforturmeric.com/wp-content/uploads/2021/11/Masala-Chai-Tea-Recipe-Card.jpg"
+        },
+        {
+        "id":6,
+        "sellername":" Shyam grocery Shop",
+        "name":"Dal",
+        "desc":"1kg",
+        "price": 100,
+        "itemquantity":30,
+        "quantity":0,
+        "image":"https://www.whiskaffair.com/wp-content/uploads/2020/04/North-Indian-Homestyle-Toor-Dal-2-3.jpg"
+        },
+        {
+        "id":7,
+        "sellername":" Shyam grocery Shop",
+        "name":"Vegetables",
+        "desc":"1kg",
+        "price": 200,
+        "itemquantity":50,
+        "quantity":0,
+        "image":"https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg"
+        },
+        {
+        "id":8,
+        "sellername":" Shyam grocery Shop",
+        "name":"Milk",
+        "desc":"1L",
+        "price": 60,
+        "itemquantity":38,
+        "quantity":0,
+        "image":"https://m.media-amazon.com/images/I/71VgwzQ0SXL.jpg"
+        },
+        {
+        "id":9,
+        "sellername":" Shyam grocery Shop",
+        "name":"Tomato",
+        "desc":"1kg",
+        "price": 200,
+        "itemquantity":40,
+        "quantity":0,
+        "image":"https://borates.today/wp-content/uploads/2022/07/Tomato-plants.jpg"
+        },
+        {
+        "id":10,
+        "sellername":" Shyam grocery Shop",
+        "name":"Kechup",
+        "desc":"1kg",
+        "price": 150,
+        "itemquantity":80,
+        "quantity":0,
+        "image":"https://images-cdn.ubuy.co.in/64c464d6c6455a75bc4d1bc8-heinz-tomato-ketchup-value-size-64-oz.jpg"
+        },
+        {
+        "id":11,
+        "sellername":" Shyam grocery Shop",
+        "name":"Ghee",
+        "desc":"1kg",
+        "price": 300,
+        "itemquantity":12,
+        "quantity":0,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Home_made_Ghee.jpg"
+        }
+        
+        
+    ]
+}
